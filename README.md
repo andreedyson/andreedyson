@@ -18,7 +18,7 @@ Hello there! I'm <span style="color: #be32f5; font-weight: bold;">Andre Edyson</
 <img align="left" alt="javascript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="typescript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="reactjs" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="nextjs" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="nextjs" width="30px" style="padding-right: 10px;" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" />
  <img align="left" alt="tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="mongodb" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img align="left" alt="git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -41,6 +41,6 @@ I dived into learning HTML, CSS, and Javascript, gradually progressing to advanc
 
 #
 
-<a href="mailto:andreedyson31@gmail.com">📧 **Send me an Email**</a>
+<a href="mailto:andreedyson31@gmail.com" style="color: red;">📧 **Send me an Email**</a>
 |
-<a href="https://instagram.com/andreedyson">📸 **Instagram**</a>
+<a href="https://instagram.com/andreedyson" style="color: magenta">📸 **Instagram**</a>
