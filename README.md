@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**`Developer | Student | Designer`**
+
+Hello there! I'm Andre Edyson, a Junior Front-End Web Developer with a love for creating seamless User Experiences. My goal is to create websites that not only looks greats, but works seamlessly and are easy for user to navigate. I'm always eager to enhance my skills, embracing challenges, and staying on top of the constantly evolving world of Web Development.
