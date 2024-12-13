@@ -5,7 +5,7 @@
 Hello there! I'm <span style="color: #be32f5; font-weight: bold;">Andre Edyson</span>, a Junior Front-End Web Developer with a love for creating seamless User Experiences. My goal is to create websites that not only look great but work seamlessly and are easy for users to navigate. I'm always eager to enhance my skills, embracing challenges, and staying on top of the constantly evolving world of Web Development.
 
 - 🌏 **I am based in Indonesia**
-- 🙋 **I am 19 Years Old**
+- 🙋 **I am 20 Years Old**
 - 📚 **Currently majoring in Information System**
 - 🤝 **Open to collaborative opportunities in the field of web development**
 
