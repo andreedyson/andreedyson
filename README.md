@@ -31,9 +31,9 @@ Hello there! I'm <span style="color: #be32f5; font-weight: bold;">Andre Edyson</
 
 ---
 ### 🧑‍💻 My Coding Journey
-As a child, I received my first laptop at the age of 10, sparking my interest in watching videos and surfing the internet. Fast forward to 8th grade, when I encountered a Computer subject introducing HTML for website building. This marked the beginning of my coding journey. I became deeply engrossed in constructing websites, and my aspiration to become a Front-End Web Developer was born.
+My journey into the world of coding began at the age of 10 when I received my first laptop. This ignited my passion for exploring the internet and watching videos. By 8th grade, I was introduced to HTML in a Computer class, which marked the official start of my coding adventure. I quickly became fascinated with building websites, fueling my ambition to become a Front-End Web Developer.
 
-I dived into learning HTML, CSS, and Javascript, gradually progressing to advanced technologies like React and Next.js after completing several projects. Currently, I'm expanding my skills to include MongoDB for backend development, with the goal of creating fully functional websites that are not only visually appealing but also user-friendly.
+I started by mastering HTML, CSS, and JavaScript, and soon advanced to technologies like React and Next.js through various projects. Today, I have expanded my expertise to include advanced tech stacks such as Next.js, TypeScript, Prisma, and PostgreSQL. These skills enable me to create fully functional websites that are not only visually appealing but also user-friendly and robust. My journey continues as I strive to integrate these technologies to deliver comprehensive and efficient web solutions.
 
 #
 
