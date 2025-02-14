@@ -41,6 +41,11 @@ I started by mastering HTML, CSS, and JavaScript, and soon advanced to technolog
 |
 <a href="https://instagram.com/andreedyson" style="color: magenta">📸 **Instagram**</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreedyson&" alt="andreedyson" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreedyson&show_icons=true&locale=en&layout=compact" alt="andreedyson" /></p>
+---
+### 🏢 GitHub Stats
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreedyson&" alt="andreedyson" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreedyson&show_icons=true&locale=en&layout=compact" alt="andreedyson" width="35%" />
+</div>
+
 
