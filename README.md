@@ -2,7 +2,7 @@
 
 **`Developer | Student | Designer`**
 
-Hello there! I'm Andre Edyson, a Front-End Web Developer passionate about crafting smooth user experiences. I aim to design websites that are visually appealing, function flawlessly, and are user-friendly. I'm continually looking to improve my skills, welcome challenges, and keep up with the ever-changing landscape of Web Development.
+Hello there! I'm Andre Edyson, a Front-End Web Developer enthusiastic about crafting smooth user experiences. I aim to design websites that are visually appealing, function flawlessly, and are user-friendly. I'm continually looking to improve my skills, welcome challenges, and keep up with the ever-changing landscape of Web Development.
 
 
 - 🌏 **I am based in Indonesia**
