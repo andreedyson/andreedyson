@@ -30,7 +30,7 @@ I started by mastering HTML, CSS, and JavaScript, and soon advanced to technolog
 ---
 ### 🏢 GitHub Stats
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreedyson&" alt="andreedyson" />
+  <img src="**https://github-readme-streak-stats.herokuapp.com/?user=andreedyson&**" alt="andreedyson" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreedyson&show_icons=true&locale=en&layout=compact" alt="andreedyson" width="35%" />
 </div>
 
