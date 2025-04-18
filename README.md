@@ -23,9 +23,9 @@ I started by mastering HTML, CSS, and JavaScript, and soon advanced to technolog
 
 #
 
-<a href="mailto:andreedyson31@gmail.com" style="color: red;">📧 **Send me an Email**</a>
+<a href="mailto:andreedyson31@gmail.com">📧 **Send me an Email**</a>
 |
-<a href="https://instagram.com/andreedyson" style="color: magenta">📸 **Instagram**</a>
+<a href="https://instagram.com/andreedyson">📸 **Instagram**</a>
 
 ---
 ### 🏢 GitHub Stats
