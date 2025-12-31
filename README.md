@@ -6,7 +6,7 @@ Hello there! I'm Andre Edyson, a Front-End Web Developer enthusiastic about craf
 
 
 - 🌏 **I am based in Indonesia**
-- 🙋 **I am 20 Years Old**
+- 🙋 **I am 21 Years Old**
 - 📚 **Currently majoring in Information System**
 - 🤝 **Open to collaborative opportunities in the field of web development**
 
