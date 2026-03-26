@@ -29,8 +29,6 @@ I started by mastering HTML, CSS, and JavaScript, and soon advanced to technolog
 
 ---
 ### 🏢 GitHub Stats
-<div style="display: flex; justify-content: space-around;">
-  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app/?user=andreedyson" alt="GitHub Streak" /></a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=andreedyson)](https://git.io/streak-stats)
 
 
