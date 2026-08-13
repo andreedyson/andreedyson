@@ -30,5 +30,3 @@ I started by mastering HTML, CSS, and JavaScript, and soon advanced to technolog
 ---
 ### 🏢 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=andreedyson)](https://git.io/streak-stats)
-
-
